@@ -1,0 +1,88 @@
+.main{
+    padding-top: 2.4rem;
+}
+.hand{
+    background: url('../img/b1.jpg') no-repeat;
+    background-size: 375px;
+    height: 151px;
+}
+.hand img{
+    width: 3rem;
+    height: auto;
+    margin-top: .5rem;
+    margin-left: .7rem;
+}
+.hand p{
+    margin-top: 10px;
+    color: hsla(0,0%,100%,.8);
+    font-size: 12px;
+    -webkit-transform: scale(.91);
+    -ms-transform: scale(.91);
+    transform: scale(.91);
+    -webkit-transform-origin: left top;
+    -ms-transform-origin: left top;
+    transform-origin: left top;
+    margin-left: 39px;
+}
+.music ul li{
+ 
+    margin-left: 6px;
+    margin-top: .35rem;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+ 
+   
+}
+.music ul li .left{
+    display: inline-block;
+    width: .4rem;
+    height: .4rem;
+    line-height: .4rem;
+    position: relative;
+    bottom: 16px;
+    color: red;
+}
+.music ul li .right{
+    display: inline-block;
+}
+.music ul li .p1{
+    width: 337px;
+    font-size: 17px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: normal;
+
+    
+}
+.music ul li span{
+ 
+    color: #888;
+    margin-left: 4px;
+}
+.music ul li .m1{
+    position: absolute;
+    right: 3px;
+    top: -3px;
+}
+.music ul li .m1 img{
+    width: .6rem;
+}
+.music ul li .p2{
+    font-size: 12px;
+    color: #888;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+.hot{
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+}
+.hot .hotview{
+    display: inline-block;
+    color: #999;
+    padding-right: 14px;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAyMiI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2NjIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgZD0iTTEgMWwxMCAxMEwxIDIxIi8+PC9zdmc+) 100% no-repeat;
+    background-size: 7px 12px;
+}

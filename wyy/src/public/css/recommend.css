@@ -1,0 +1,207 @@
+.zong{
+    padding-top: 2.4rem;
+}
+.toubu{
+    margin-top: .15rem;
+   
+}
+.toubu span{
+    padding-left: 9px;
+    font-size: 14px;
+    display: block;
+    border-left: 3px solid red;
+}
+.list ul {
+    height: 6.8rem;
+}
+.list ul li{
+    width: 2.3rem;
+    height: 3rem;
+    float: left;
+    margin-top: .2rem;
+    margin-right: .1rem;
+    position: relative;
+}
+.list ul li img{
+    width: 2.3rem;
+    height: auto;
+}
+.list ul li p{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding: 6px 2px 0 6px;
+
+    line-height: 1.2;
+    font-size: 6px;
+}
+.list ul li span{
+    position: absolute;
+    right: 5px;
+    top: 2px;
+    z-index: 3;
+    padding-left: 13px;
+    color: #fff;
+    font-size: 12px;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: 11px 10px;
+    text-shadow: 1px 0 0 rgba(0,0,0,.15);
+}
+.music ul li{
+ 
+    margin-left: 6px;
+    margin-top: .35rem;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+ 
+   
+}
+.music ul li .p1{
+    width: 337px;
+    font-size: 17px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: normal;
+    padding-bottom: 4px ;
+
+    
+}
+.music ul li span{
+ 
+    color: #888;
+    margin-left: 4px;
+}
+.music ul li .m1{
+    position: absolute;
+    right: 3px;
+    top: -3px;
+}
+.music ul li .m1 img{
+    width: .6rem;
+}
+.music ul li .p2{
+    font-size: 12px;
+    color: #888;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+.foot{
+    width: 100%;
+    
+  background: url('../img/beijing.jpg') no-repeat;
+    
+    background-size: 377px;
+}
+.foot .tuu{
+    /* width: 100%; */
+    padding-top: 45px;
+    padding-left: 85px;
+    
+   
+}
+.foot .tuu img{
+   width: 200px;
+ 
+
+}
+.foot .open{
+    line-height: 38px;
+    border: 1px solid #d33a31;
+    border-radius: 38px;
+    font-size: 16px;
+    color: #d33a31;
+    margin: 15px 37px 5px;
+    text-align: center;
+}
+.foot p{
+    color: #888;
+    font-size: 12px;
+    line-height: 16px;
+    -webkit-transform: scale(.75);
+    -ms-transform: scale(.75);
+    transform: scale(.75);
+    text-align: center;
+    padding-bottom: .5rem;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .swiper-slide img{
+      width: 100%;
+      height: 2.6rem;
+  }
+  .music ul li{
+ 
+    margin-left: 6px;
+    margin-top: .35rem;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+ 
+   
+}
+.music ul li .left{
+    display: inline-block;
+    width: .4rem;
+    height: .4rem;
+    line-height: .4rem;
+    position: relative;
+    bottom: 16px;
+    color: red;
+}
+.music ul li .right{
+    display: inline-block;
+}
+.music ul li .p1{
+    width: 337px;
+    font-size: 17px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: normal;
+
+    
+}
+.music ul li span{
+ 
+    color: #888;
+    margin-left: 4px;
+}
+.music ul li .m1{
+    position: absolute;
+    right: 3px;
+    top: -3px;
+}
+.music ul li .m1 img{
+    width: .6rem;
+}
+.music ul li .p2{
+    font-size: 12px;
+    color: #888;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
